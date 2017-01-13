@@ -1,2 +1,2 @@
-# pokedex
+# Pokedex
 PokeDex | Dylan ten Böhmer
